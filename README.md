@@ -1,4 +1,5 @@
-<p> <strong>Bio:</strong> Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.</p>
+ <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<p> Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.
   </p>
   <h2>Top Skills</h2>
   <ul>
@@ -7,6 +8,11 @@
     <li>Tableau</li>
     <li>SQL</li>
     <li>Python (Programming Language)</li>
+    <li>Python for data analysis, modeling, and machine learning</li>
+    <li>SQL for data manipulation and querying</li>
+    <li>Cloud computing platforms such as Google Cloud Platform and Amazon Web Services</li>
+    <li>Big data technologies like Hadoop and Spark</li>
+    <li>Visualization tools such as Tableau, Power BI, and Google Data Studio</li>
   </ul>
   <h2>Projects</h2>
   <ul>
@@ -31,19 +37,15 @@
     <li>
       Published articles on data science topics in industry publications.
     </li>
+    <li>
+      Python for data analysis, modeling, and machine learning
+    </li>
+    <li>SQL for data manipulation and querying</li>
+    <li>Cloud computing platforms such as Google Cloud Platform and Amazon Web Services</li>
+    <li>Big data technologies like Hadoop and Spark</li>
+    <li>Visualization tools such as Tableau, Power BI, and Google Data Studio</li>
   </ul>
   <h2>Contact</h2>
-  <ul>
-    <li>
-      <a href="mailto:[Your email address]">[Your email address]</a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/[Your LinkedIn profile URL]">[Your LinkedIn profile URL]</a>
-    </li>
-    <li>
-      <a href="https://twitter.com/[Your Twitter handle]">[Your Twitter handle]</a>
-    </li>
-  </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkrsocial&label=Profile%20views&color=0e75b6&style=flat" alt="amitkrsocial" /> </p>
 
