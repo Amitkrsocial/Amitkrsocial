@@ -1,14 +1,53 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-
-<p>Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.</p>
-
-<p>Top skills:</p>
-
-<p>Business Analysis Microsoft Power BI Tableau SQL Python (Programming Language) Projects:</p>
-
-<p>Project 1: Developed a data analysis dashboard to track the progress of a development project. The dashboard was used by project managers to make informed decisions about the project's budget and timeline. Project 2: Used machine learning to predict the likelihood of a student dropping out of school. The model was used by school administrators to identify students who were at risk of dropping out and provide them with the support they needed to stay in school. Project 3: Conducted a survey of development sector organizations to understand their data needs. The survey results were used to develop a data management plan for the sector. Contributions:</p>
-
-<p>Contributed to open source data science projects on GitHub. Attended and presented at data science conferences. Published articles on data science topics in industry publications.</p>
+<h1>Data Science Profile</h1>
+  <p>
+    <strong>Name:</strong> [Your name]
+    <br>
+    <strong>Bio:</strong> Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.
+  </p>
+  <h2>Top Skills</h2>
+  <ul>
+    <li>Business Analysis</li>
+    <li>Microsoft Power BI</li>
+    <li>Tableau</li>
+    <li>SQL</li>
+    <li>Python (Programming Language)</li>
+  </ul>
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      <strong>Project 1:</strong> Developed a data analysis dashboard to track the progress of a development project. The dashboard was used by project managers to make informed decisions about the project's budget and timeline.
+    </li>
+    <li>
+      <strong>Project 2:</strong> Used machine learning to predict the likelihood of a student dropping out of school. The model was used by school administrators to identify students who were at risk of dropping out and provide them with the support they needed to stay in school.
+    </li>
+    <li>
+      <strong>Project 3:</strong> Conducted a survey of development sector organizations to understand their data needs. The survey results were used to develop a data management plan for the sector.
+    </li>
+  </ul>
+  <h2>Contributions</h2>
+  <ul>
+    <li>
+      Contributed to open source data science projects on GitHub.
+    </li>
+    <li>
+      Attended and presented at data science conferences.
+    </li>
+    <li>
+      Published articles on data science topics in industry publications.
+    </li>
+  </ul>
+  <h2>Contact</h2>
+  <ul>
+    <li>
+      <a href="mailto:[Your email address]">[Your email address]</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/[Your LinkedIn profile URL]">[Your LinkedIn profile URL]</a>
+    </li>
+    <li>
+      <a href="https://twitter.com/[Your Twitter handle]">[Your Twitter handle]</a>
+    </li>
+  </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkrsocial&label=Profile%20views&color=0e75b6&style=flat" alt="amitkrsocial" /> </p>
 
