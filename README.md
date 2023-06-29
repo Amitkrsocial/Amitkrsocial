@@ -1,6 +1,4 @@
-
-    <br>
-    <strong>Bio:</strong> Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.
+<p> <strong>Bio:</strong> Data Analyst with 5+ years of experience in interpreting and analyzing development sector data. Skilled in utilizing statistics, mathematics, and analytics to extract valuable insights. Expertise in project monitoring, developing monitoring tools, and creating informative dashboards. Committed to leveraging data-driven strategies to drive positive impact and foster sustainable growth. Passionate about utilizing data to identify trends, optimize processes, and facilitate informed decision-making. Looking to contribute my expertise in data analysis and project monitoring to drive impactful outcomes in the development and sustainability fields.</p>
   </p>
   <h2>Top Skills</h2>
   <ul>
