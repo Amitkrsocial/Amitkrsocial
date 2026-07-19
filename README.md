@@ -63,5 +63,6 @@ I am a passionate data scientist with expertise in extracting insights from comp
 - [25 Most Unusual Musical Instruments Worth Learning in 2026](https://buddymantra.com/25-most-unusual-musical-instruments/)
 
 - [Ecological Pyramids Explained](https://buddymantra.com/ecological-pyramids-in-ecosystems/)
+- [Algebraic Equations: Complete Guide with Examples](https://scholarbasta.com/algebraic-equations-complete-guide-with-examples/)
 
  
